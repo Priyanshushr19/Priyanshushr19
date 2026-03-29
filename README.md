@@ -15,7 +15,6 @@
 - 💼 MERN Stack Developer Intern @ **Connektsphere**  
 - 🔥 Solved **450+ DSA problems** (LeetCode + GFG)  
 - ⚡ Building scalable **Full-Stack & Backend Systems**  
-- 🎯 Goal: Crack **₹10 LPA+ Software Developer Role in 2026**
 
 ---
 
